@@ -240,11 +240,5 @@ Possible future improvements include:
 **Project:** InterviewMentor – Interview Preparation and Assessment System
 
 **Team Members:**
-- Jeya Keerthana D
 - Jeya Kiruthika D
-
-**Project Guide:**
-- Mrs. M. Geetha, Assistant Professor
-
-**Institution:**
-Chennai Institute of Technology
+- Jeya Keerthana D
